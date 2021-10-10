@@ -1,6 +1,7 @@
 package login;
 
 import base.BaseTests;
+import com.sun.source.tree.AssertTree;
 import org.testng.annotations.Test;
 import pages.LoginPage;
 import pages.SecureAreaPage;
@@ -18,5 +19,15 @@ public class LoginTests extends BaseTests {
         assertTrue(secureAreaPage.getAlertText()
                 .contains("You logged into a secure area!"),
                 "Alert text is incorrect");
+    }
+
+    @Test
+    public void testUnsuccessfulLogin(){
+        LoginPage loginPage = homePage.clickFormAuthentication();
+        loginPage.setUsername("tomsmi");
+        loginPage.setPassword("SuperSecretPassword!");
+        loginPage.clickLoginButton();
+        assertTrue(loginPage.verifyInvalidLogin().contains("Your username is invalid"));
+
     }
 }

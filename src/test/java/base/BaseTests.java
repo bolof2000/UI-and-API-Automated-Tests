@@ -19,6 +19,7 @@ import utils.WindowManager;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 public class BaseTests {
 
@@ -35,7 +36,9 @@ public class BaseTests {
     @BeforeMethod
     public void goHome(){
         driver.get("https://the-internet.herokuapp.com/");
+        driver.manage().window().fullscreen();
         homePage = new HomePage(driver);
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
 
     @AfterClass
@@ -44,13 +47,30 @@ public class BaseTests {
     }
 
     @AfterMethod
-    public void recordFailure(ITestResult result){
+    public void recordTestResults(ITestResult result){
         if(ITestResult.FAILURE == result.getStatus())
         {
             var camera = (TakesScreenshot)driver;
             File screenshot = camera.getScreenshotAs(OutputType.FILE);
             try{
-                Files.move(screenshot, new File("resources/screenshots/" + result.getName() + ".png"));
+                Files.move(screenshot, new File("/Volumes/Projects/Software Testings/Automations-Tests/src/main/resources/screenshots/fail/" + result.getName() + ".png"));
+            }catch(IOException e){
+                e.printStackTrace();
+            }
+        }
+        else if (ITestResult.SUCCESS == result.getStatus()){
+            var camera = (TakesScreenshot)driver;
+            File screenshot = camera.getScreenshotAs(OutputType.FILE);
+            try{
+                Files.move(screenshot, new File("/Volumes/Projects/Software Testings/Automations-Tests/src/main/resources/screenshots/pass/" + result.getName() + ".png"));
+            }catch(IOException e){
+                e.printStackTrace();
+            }
+        }else{
+            var camera = (TakesScreenshot)driver;
+            File screenshot = camera.getScreenshotAs(OutputType.FILE);
+            try{
+                Files.move(screenshot, new File("/Volumes/Projects/Software Testings/Automations-Tests/src/main/resources/screenshots/other_status/" + result.getName() + ".png"));
             }catch(IOException e){
                 e.printStackTrace();
             }

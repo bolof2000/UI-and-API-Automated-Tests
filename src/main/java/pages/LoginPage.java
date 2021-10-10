@@ -9,6 +9,7 @@ public class LoginPage {
     private By usernameField = By.id("username");
     private By passwordField = By.id("password");
     private By loginButton = By.cssSelector("#login button");
+    private By invalidLoginText = By.cssSelector("#flash-messages");
 
     public LoginPage(WebDriver driver){
         this.driver = driver;
@@ -25,5 +26,9 @@ public class LoginPage {
     public SecureAreaPage clickLoginButton(){
         driver.findElement(loginButton).click();
         return new SecureAreaPage(driver);
+    }
+
+    public String verifyInvalidLogin(){
+        return driver.findElement(invalidLoginText).getText().toString();
     }
 }
