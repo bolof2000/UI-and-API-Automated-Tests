@@ -1,0 +1,33 @@
+{
+  "token": "card_token_002",
+  "user_token": "my_user_01",
+  "fulfillment": {
+    "card_personalization": {
+      "text": {
+        "name_line_1": {
+          "value": "Bolofinde Doe"
+        },
+        "name_line_2": {
+          "value": "My card personalization line 2"
+        }
+      },
+      "images": {
+        "card": {
+          "name": "my_card_logo.png",
+          "thermal_color": "Black"
+        },
+        "signature": {
+          "name": "my_signature.png"
+        },
+        "carrier_return_window": {
+          "name": "my_return_address_image.png"
+        }
+      }
+    }
+  },
+  "card_product_token": "ATM_card_02",
+  "metadata": {
+    "key1":"value1",
+    "key2":"value2"
+  }
+}

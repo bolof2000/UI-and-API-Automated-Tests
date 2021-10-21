@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/department-api/department-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../gatling-maven-plugin-demo/pom.xml" />
       </list>
     </option>
   </component>

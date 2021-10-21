@@ -1,0 +1,35 @@
+version: '3'
+
+services:
+
+  mysql-standalone:
+    image: mysql:latest
+
+    environment:
+      - MYSQL_ROOT_PASSWORD=Testman2k100$
+      - MYSQL_DATABASE=micronew
+    ports:
+    - "3307:3306"
+
+  department:
+    container_name: department-service
+    build:
+      context: ./department-service
+      dockerfile: Dockerfile
+    ports:
+    - 9090:9090
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql-standalone:3306/micronew?autoReconnect=true&useSSL=false
+      SPRING_DATASOURCE_USERNAME: "root"
+      SPRING_DATASOURCE_PASSWORD: "Testman2k100$"
+
+  user:
+    container_name: user-service
+    build:
+      context: ./user-service
+      dockerfile: Dockerfile
+    ports:
+    - 9091:9091
+    links:
+      - "department:department-service"
+
