@@ -29,4 +29,22 @@ public class LoginTests extends BaseTests {
         assertTrue(loginPage.verifyInvalidLogin().contains("Your username is invalid"));
 
     }
+    @Test
+    public void testUnsuccessfulLogin91(){
+        LoginPage loginPage = homePage.clickFormAuthentication();
+        loginPage.setUsername("tomsmi");
+        loginPage.setPassword("SuperSecretPassword!");
+        loginPage.clickLoginButton();
+        assertTrue(loginPage.verifyInvalidLogin().contains("Your username is invalid"));
+
+    }
+    @Test
+    public void testUnsuccessfulLogin02(){
+        LoginPage loginPage = homePage.clickFormAuthentication();
+        loginPage.setUsername("tomsmi");
+        loginPage.setPassword("SuperSecretPassword!");
+        loginPage.clickLoginButton();
+        assertTrue(loginPage.verifyInvalidLogin().contains("Your username is invalid"));
+
+    }
 }
