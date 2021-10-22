@@ -46,8 +46,6 @@ b
 2src/test/java/apitests/MQ/apiutils/updateuser.json,3/5/353621ce014471cd2935f7fef5eba702ba527139
 b
 2src/test/java/apitests/MQ/apiutils/createCard.json,f/7/f7205466abf6e2373b43429ce06bff2fee16c185
-Z
-*src/main/java/utils/data/DataCreation.java,c/f/cfa4cd39ae1b5f3fd3c4f5682e9001024bf4be2b
 ^
 .src/test/java/apitests/MQ/apiutils/user01.json,2/a/2af6458e531e7efaa6ef022e20528602efc759fa
 \
