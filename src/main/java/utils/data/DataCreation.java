@@ -1,6 +1,7 @@
 package utils.data;
 
 import com.github.javafaker.Faker;
+import com.mongodb.util.JSON;
 import org.json.simple.JSONObject;
 
 import java.io.IOException;
@@ -27,4 +28,34 @@ public class DataCreation {
         return user;
     }
 
+
+    public static JSONObject cardProductAutoGenData(){
+        String username = faker.name().username();
+        String email = faker.internet().emailAddress();
+        String password = faker.internet().password();
+
+        JSONObject data = new JSONObject();
+        JSONObject cardProduct = new JSONObject();
+        cardProduct.put("user",data);
+        data.put("username", username);
+        data.put("email", email);
+        data.put("password", password);
+
+        return cardProduct;
+    }
+
+    public static JSONObject cardAutoData(){
+        String username = faker.name().username();
+        String email = faker.internet().emailAddress();
+        String password = faker.internet().password();
+
+        JSONObject data = new JSONObject();
+        JSONObject card = new JSONObject();
+        card.put("user",data);
+        data.put("username", username);
+        data.put("email", email);
+        data.put("password", password);
+
+        return card;
+    }
 }
