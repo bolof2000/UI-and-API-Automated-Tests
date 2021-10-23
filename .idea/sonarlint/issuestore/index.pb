@@ -13,8 +13,6 @@ W
 'src/main/java/pages/FileUploadPage.java,3/4/34072ae467fdffab1e5dadd466f9256c82ec7b04
 \
 ,src/main/java/pages/MultipleWindowsPage.java,8/a/8abb2c33f59ea6e65b993f5519180afbbe8897d5
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 ]
 -src/test/java/alltests/frames/FrameTests.java,a/8/a8758345be18a2568efb7ffd8601a9ab6f61865b
 |
@@ -23,14 +21,10 @@ R
 "src/main/java/pages/LoginPage.java,4/b/4bdc7fe650a4170fd3332cdfc4dca51f7507f98b
 [
 +src/main/java/pages/ForgotPasswordPage.java,3/b/3b424da02af2dbd58da3ce4b83fdc86c7d6c4eac
-G
-test-output/Extent.html,b/f/bf7d68e78d3c96de56ecabda2c6a85df9eddd453
 b
 2src/test/java/alltests/alerts/FileUploadTests.java,b/0/b0a82fe1d1c64889f04d37e6895ee6867ef85126
 ]
 -src/test/java/alltests/alerts/AlertTests.java,f/1/f1c5ade56d336ea31d49a383c17c5ad694890dad
-g
-7src/main/java/utils/reporting/ExtentReportListener.java,3/a/3a02d64624137af11c11e850fe8a6a6da61c2249
 :
 
 testng.xml,5/2/522a7a4e21649af06297e31a9e33f13bb4fd3022
@@ -63,10 +57,4 @@ d
 e
 5src/test/java/apitests/MQ/apiutils/cardProduct02.json,0/7/073f404ac19be0da89e407a4781f27b8cbdf4e58
 V
-&src/main/java/utils/EventReporter.java,c/d/cd3789f13936a3d18594c0ade471bc641fa08287
-V
 &src/main/java/utils/CookieManager.java,2/4/24663854cd5a5eaa773d136deb856b35ce54583e
-V
-&src/main/java/utils/WindowManager.java,3/a/3ad9ad91c35680a62ff6adb25a1cb8b5a4141121
-Q
-!src/test/java/base/BaseTests.java,1/9/19f149529b2bd71032174e3d2f902a3b73e927fc

@@ -238,11 +238,6 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/test/java/Leet.java">
-          <value>
-            <set />
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/alerts/FileUploadTests.java">
           <value>
             <set />
@@ -499,6 +494,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../gatling-maven-plugin-demo/src/test/scala/computerdatabase/TestMQPISimulation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../perfTests/gatling-maven-plugin-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../perfTests/gatling-maven-plugin-demo/src/test/scala/MQ/TestMQAPISimulation.scala">
           <value>
             <set />
           </value>
