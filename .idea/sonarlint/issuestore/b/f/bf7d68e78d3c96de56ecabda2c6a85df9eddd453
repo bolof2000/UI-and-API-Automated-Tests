@@ -1,69 +1,0 @@
-
-Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
-CWeb:BoldAndItalicTagsCheck*"Replace this <i> tag by <em>.(ëšÍì
-HWeb:BoldAndItalicTagsCheck-"Replace this <i> tag by <em>.(üÿÿŒıÿÿÿÿ
-JWeb:BoldAndItalicTagsCheck."Replace this <i> tag by <em>.(Áˆ¼’8ö½îèÆ/
-OWeb:BoldAndItalicTagsCheck0"Replace this <i> tag by <em>.(¨«ôµÿÿÿÿÿ8÷½îèÆ/
-JWeb:BoldAndItalicTagsCheck6"Replace this <i> tag by <em>.(ªÕ„ú8÷½îèÆ/
-JWeb:BoldAndItalicTagsCheckt"Replace this <i> tag by <em>.(ôÂù8÷½îèÆ/
-PWeb:BoldAndItalicTagsCheck‡"Replace this <i> tag by <em>.(¶©¼şÿÿÿÿ8ø½îèÆ/
-UWeb:TableWithoutCaptionCheck¢" Add a description to this table.(¿‰˜ÿÿÿÿÿ8ø½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck¥";Add either an 'id' or a 'scope' attribute to this <th> tag.(×ƒ¥À8ø½îèÆ/
-t Web:TableHeaderHasIdOrScopeCheck¦";Add either an 'id' or a 'scope' attribute to this <th> tag.(õ¿Ğ…ÿÿÿÿÿ8ø½îèÆ/
-PWeb:BoldAndItalicTagsCheckÌ"Replace this <i> tag by <em>.(öª¯³ûÿÿÿÿ8ø½îèÆ/
-KWeb:BoldAndItalicTagsCheckØ"Replace this <i> tag by <em>.(ÿ©ÿ…8ø½îèÆ/
-PWeb:BoldAndItalicTagsCheckİ"Replace this <i> tag by <em>.(¬»ì®úÿÿÿÿ8ø½îèÆ/
-JWeb:BoldAndItalicTagsCheckâ"Replace this <i> tag by <em>.(ïÄÓs8ø½îèÆ/
-KWeb:BoldAndItalicTagsCheckê"Replace this <i> tag by <em>.(çú—Ò8ø½îèÆ/
-UWeb:TableWithoutCaptionCheck" Add a description to this table.(ÊúÖÏşÿÿÿÿ8ø½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck„";Add either an 'id' or a 'scope' attribute to this <th> tag.(¶õÛ—8ù½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck…";Add either an 'id' or a 'scope' attribute to this <th> tag.(şËÌ8ù½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck†";Add either an 'id' or a 'scope' attribute to this <th> tag.(òƒáº8ù½îèÆ/
-PWeb:BoldAndItalicTagsCheck‹"Replace this <i> tag by <em>.(·‚Ä³ûÿÿÿÿ8ù½îèÆ/
-UWeb:TableWithoutCaptionCheck¦" Add a description to this table.(ÊúÖÏşÿÿÿÿ8ù½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck©";Add either an 'id' or a 'scope' attribute to this <th> tag.(¶õÛ—8ù½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheckª";Add either an 'id' or a 'scope' attribute to this <th> tag.(şËÌ8ù½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck«";Add either an 'id' or a 'scope' attribute to this <th> tag.(òƒáº8ù½îèÆ/
-PWeb:BoldAndItalicTagsCheck°"Replace this <i> tag by <em>.(·‚Ä³ûÿÿÿÿ8ù½îèÆ/
-UWeb:TableWithoutCaptionCheckË" Add a description to this table.(ÊúÖÏşÿÿÿÿ8ù½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheckÎ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¶õÛ—8ù½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheckÏ";Add either an 'id' or a 'scope' attribute to this <th> tag.(şËÌ8ú½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheckĞ";Add either an 'id' or a 'scope' attribute to this <th> tag.(òƒáº8ú½îèÆ/
-PWeb:BoldAndItalicTagsCheckÕ"Replace this <i> tag by <em>.(·‚Ä³ûÿÿÿÿ8ú½îèÆ/
-UWeb:TableWithoutCaptionCheckğ" Add a description to this table.(ÊúÖÏşÿÿÿÿ8ú½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheckó";Add either an 'id' or a 'scope' attribute to this <th> tag.(¶õÛ—8ú½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheckô";Add either an 'id' or a 'scope' attribute to this <th> tag.(şËÌ8ú½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheckõ";Add either an 'id' or a 'scope' attribute to this <th> tag.(òƒáº8ú½îèÆ/
-PWeb:BoldAndItalicTagsCheckú"Replace this <i> tag by <em>.(·‚Ä³ûÿÿÿÿ8ú½îèÆ/
-UWeb:TableWithoutCaptionCheck•" Add a description to this table.(ÊúÖÏşÿÿÿÿ8ú½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck˜";Add either an 'id' or a 'scope' attribute to this <th> tag.(¶õÛ—8ú½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck™";Add either an 'id' or a 'scope' attribute to this <th> tag.(şËÌ8û½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheckš";Add either an 'id' or a 'scope' attribute to this <th> tag.(òƒáº8û½îèÆ/
-PWeb:BoldAndItalicTagsCheckŸ"Replace this <i> tag by <em>.(·‚Ä³ûÿÿÿÿ8û½îèÆ/
-UWeb:TableWithoutCaptionCheckº" Add a description to this table.(ÊúÖÏşÿÿÿÿ8û½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck½";Add either an 'id' or a 'scope' attribute to this <th> tag.(¶õÛ—8û½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck¾";Add either an 'id' or a 'scope' attribute to this <th> tag.(şËÌ8û½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck¿";Add either an 'id' or a 'scope' attribute to this <th> tag.(òƒáº8û½îèÆ/
-PWeb:BoldAndItalicTagsCheckÄ"Replace this <i> tag by <em>.(¡Î£šşÿÿÿÿ8û½îèÆ/
-UWeb:TableWithoutCaptionCheck€" Add a description to this table.(ÊúÖÏşÿÿÿÿ8û½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheckƒ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¶õÛ—8û½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck„";Add either an 'id' or a 'scope' attribute to this <th> tag.(şËÌ8û½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck…";Add either an 'id' or a 'scope' attribute to this <th> tag.(òƒáº8ü½îèÆ/
-PWeb:BoldAndItalicTagsCheckŠ"Replace this <i> tag by <em>.(¡Î£šşÿÿÿÿ8ü½îèÆ/
-PWeb:BoldAndItalicTagsCheck×"Replace this <i> tag by <em>.(Ş×“üÿÿÿÿ8ü½îèÆ/
-KWeb:BoldAndItalicTagsCheckØ"Replace this <i> tag by <em>.(Œ¿ŒÕ8ü½îèÆ/
-KWeb:BoldAndItalicTagsCheckÙ"Replace this <i> tag by <em>.(¢ù÷8ü½îèÆ/
-KWeb:BoldAndItalicTagsCheckÚ"Replace this <i> tag by <em>.(íÅÜŞ8ü½îèÆ/
-KWeb:BoldAndItalicTagsCheckÛ"Replace this <i> tag by <em>.(°öé–8ü½îèÆ/
-KWeb:BoldAndItalicTagsCheckÜ"Replace this <i> tag by <em>.(İ¾È¾8ü½îèÆ/
-PWeb:BoldAndItalicTagsCheckİ"Replace this <i> tag by <em>.(¯šØùÿÿÿÿ8ü½îèÆ/
-PWeb:BoldAndItalicTagsCheckŞ"Replace this <i> tag by <em>.(Ü§®üøÿÿÿÿ8ü½îèÆ/
-KWeb:BoldAndItalicTagsCheckø"Replace this <i> tag by <em>.(çú—Ò8ı½îèÆ/
-PWeb:TableWithoutCaptionCheckˆ" Add a description to this table.(©ÓÄ¸8ı½îèÆ/
-t Web:TableHeaderHasIdOrScopeCheck‹";Add either an 'id' or a 'scope' attribute to this <th> tag.(åÚãƒüÿÿÿÿ8ı½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheckŒ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ö¡ã±8ı½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(¹Ùé÷8ı½îèÆ/
-PWeb:TableWithoutCaptionCheckÅ" Add a description to this table.(©ÓÄ¸8ı½îèÆ/
-t Web:TableHeaderHasIdOrScopeCheckÈ";Add either an 'id' or a 'scope' attribute to this <th> tag.(åÚãƒüÿÿÿÿ8ı½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheckÉ";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ö¡ã±8ı½îèÆ/
-o Web:TableHeaderHasIdOrScopeCheckÊ";Add either an 'id' or a 'scope' attribute to this <th> tag.(¹Ùé÷8ı½îèÆ/

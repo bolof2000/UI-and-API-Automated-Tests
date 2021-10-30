@@ -1,5 +1,6 @@
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/LoginPage.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/NestedFramesPage.java
+/Volumes/Projects/Software Testings/Automations-Tests/src/main/java/models/User.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/EmailSentPage.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/utils/WindowManager.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/MultipleWindowsPage.java
@@ -14,13 +15,16 @@
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/DynamicLoadingExample1Page.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/utils/CookieManager.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/HorizontalSliderPage.java
+/Volumes/Projects/Software Testings/Automations-Tests/src/main/java/models/Data.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/utils/reporting/ExtentReportListener.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/WysiwygEditorPage.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/SecureAreaPage.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/ContextMenuPage.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/HoversPage.java
+/Volumes/Projects/Software Testings/Automations-Tests/src/main/java/models/Metadata.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/HomePage.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/utils/EventReporter.java
+/Volumes/Projects/Software Testings/Automations-Tests/src/main/java/models/Identifications.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/KeyPressesPage.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/LargeAndDeepDomPage.java
 /Volumes/Projects/Software Testings/Automations-Tests/src/main/java/pages/FileUploadPage.java
